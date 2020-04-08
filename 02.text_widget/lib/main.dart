@@ -19,7 +19,11 @@ class MyApp extends StatelessWidget {
                   // overflow: TextOverflow.ellipsis,
                   // softWrap: false,
                   // textAlign: TextAlign.center,
-                  style: TextStyle(color: Colors.white,fontStyle: FontStyle.italic,fontWeight: FontWeight.bold,fontSize: 20),
+                  style: TextStyle(
+                      color: Colors.white,
+                      fontStyle: FontStyle.italic,
+                      fontWeight: FontWeight.bold,
+                      fontSize: 20),
                 ))),
       ),
     );
